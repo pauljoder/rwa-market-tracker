@@ -1,6 +1,6 @@
-# RWA Tokenized Treasuries — Market Analysis
+# RWA Tokenized Treasuries - Market Analysis
 
-A Python data analysis project tracking the growth of tokenized real-world assets (RWA) — specifically money market funds and T-bill products — deployed on public blockchains.
+A Python data analysis project tracking the growth of tokenized real-world assets (RWA) - specifically money market funds and T-bill products - deployed on public blockchains.
 
 Built as part of my Master's thesis research on *Tokenization of Artworks as Real World Assets and their Impact on the Cultural Sector* (Paris 1 Panthéon-Sorbonne, 2025–2026).
 
@@ -91,7 +91,7 @@ The free tier allows approximately 1,000 API calls per month.
 
 ## Context
 
-The rapid growth of tokenized treasuries represents one of the clearest proof-of-concept moments for RWA tokenization at scale. Unlike earlier blockchain-based asset experiments, these products offer genuine on-chain settlement, daily liquidity without traditional fund redemption friction, and composability with DeFi protocols — for instance, using tokenized T-bills as collateral on lending markets.
+The rapid growth of tokenized treasuries represents one of the clearest proof-of-concept moments for RWA tokenization at scale. Unlike earlier blockchain-based asset experiments, these products offer genuine on-chain settlement, daily liquidity without traditional fund redemption friction, and composability with DeFi protocols, for instance, using tokenized T-bills as collateral on lending markets.
 
 Analyzing this market's structure is directly relevant to assessing whether comparable infrastructure can eventually be applied to less liquid asset classes such as artworks or cultural heritage objects.
 
